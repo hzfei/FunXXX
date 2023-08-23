@@ -11,8 +11,8 @@ with open("README.md", "r",encoding='utf8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="funxxx",                                     # 包的分发名称，使用字母、数字、_、-
-    version="0.0.1",                                        # 版本号, 版本号规范：https://www.python.org/dev/peps/pep-0440/
+    name="FunXXX",                                     # 包的分发名称，使用字母、数字、_、-
+    version="0.0.2",                                        # 版本号, 版本号规范：https://www.python.org/dev/peps/pep-0440/
     author="hzfei",                                       # 作者名字
     author_email="1027551108@qq.com",                      # 作者邮箱
     description="just a xxx tool",                            # 包的简介描述
